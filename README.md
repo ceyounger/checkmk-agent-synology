@@ -24,7 +24,7 @@ opkg install xinetd
 
 * unzip latest check_mk package (7z), then inside using tar: package.tgz
 ```
-7z e checkmk-agent-synology_1.6.0p19.spk
+7z e checkmk-agent-synology_<version>.spk
 tar -zxvf package.tgz
 
 mkdir -p /opt/var/lib/check_mk_agent/cache
