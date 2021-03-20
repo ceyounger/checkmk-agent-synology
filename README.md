@@ -3,7 +3,7 @@
 
 For those of you that run Check_MK, you may know that the Linux agent *does* run on our Synology's but it's a bit of an adventure getting up and running.
 
-Thanks to the fine work at **[bachmann-lan.de](https://www.bachmann-lan.de/synology-dsm-6-check_mk-agent-paket/)** and the comment section I have updated the Check_MK linux agent for my Synology running DSM6.  I thought I'd share with the community as it was a bit of a process, but kow you can enjoy all my labor with a simple .SPK to install.
+Thanks to the fine work at **[bachmann-lan.de](https://www.bachmann-lan.de/synology-dsm-6-check_mk-agent-paket/)** and the comment section I have updated the Check_MK linux agent for my Synology running DSM6.  I thought I'd share with the community as it was a bit of a process, but now you can enjoy all my labor with a simple .SPK to install.
 
 I couldn't have and wouldn't have done this without the fine work at bachmann-lan.de, so props should be sent there.  :)
 
